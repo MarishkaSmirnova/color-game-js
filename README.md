@@ -1,3 +1,2 @@
-# This is the project's README file
+# JavaScript RBJ Color Game
 
-### replace me with important information
